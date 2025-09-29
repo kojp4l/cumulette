@@ -4,7 +4,7 @@
 
 <h1 align="center">
     Cumulette <br>
-    <span style="color: #3171c6;"> /ˌkjuː.mjə.ˈlɛt/ </span>
+    /ˌkjuː.mjə.ˈlɛt/
 </h1>
 
 # 📸 Preview
