@@ -1,0 +1,27 @@
+{
+  "name": "cumulette",
+  "displayName": "Cumulette",
+  "publisher": "kojp4l",
+  "description": "🐒 Cumulus cloud inspired pastel theme for VSCode 🐒",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "icon": "images/icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kojp4l/cumulette.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cumulette",
+        "uiTheme": "vs",
+        "path": "./themes/Cumulette-color-theme.json"
+      }
+    ]
+  }
+}
